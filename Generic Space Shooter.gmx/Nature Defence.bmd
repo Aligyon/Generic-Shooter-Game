@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="2.0.7.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org/download-->
+  <information>
+    <Author />
+    <Company />
+    <Version>1.0</Version>
+    <Description />
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts>
+    <chart name="New Chart" type="MindMap">
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>#597533</back_color>
+        <fore_color>#332F28</fore_color>
+        <line_color>#332F28</line_color>
+        <border_color>#332F28</border_color>
+        <node_back_color>#ECEAB0</node_back_color>
+        <node_fore_color>#332F28</node_fore_color>
+        <select_color>#61B594</select_color>
+        <hover_color>#61B594</hover_color>
+        <link_line_color>YellowGreen</link_line_color>
+      </style>
+      <nodes>
+        <node text="Sapplings Pet Game">
+          <style>
+            <back_color>#BF4C18</back_color>
+            <fore_color>#332F28</fore_color>
+            <border_color>#332F28</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node text="Theme">
+              <nodes>
+                <node text="Nature">
+                  <nodes>
+                    <node text="Tribal Sapplings as Players" />
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node text="Enemies">
+              <nodes>
+                <node text="Robot" />
+              </nodes>
+            </node>
+            <node text="Story" />
+            <node text="Simple">
+              <nodes>
+                <node text="Gameplay">
+                  <nodes>
+                    <node text="Top-Down Mobile Game " />
+                    <node text="Defend The Tree of Life" />
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node text="Complicated">
+              <nodes>
+                <node text="Gameplay">
+                  <nodes>
+                    <node text="Pets" />
+                    <node text="Third Person" />
+                    <node text="Hub">
+                      <nodes>
+                        <node text="Tree of Life" />
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
